@@ -1,0 +1,20 @@
+body {
+  font-family: Candara,Verdana,sans-serif;
+}
+
+article {
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+a {
+  color: #4183C4;
+}
+
+article a {
+  font-size: 20px;
+}
+
+
